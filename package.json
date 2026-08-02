@@ -24,7 +24,7 @@
     "sliitmozilla"
   ],
   "author": "Mozilla Campus Club of SLIIT",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "description": "Simple library to load, handle and convert data in different types such as JSON, CSV, XML, and YAML",
   "devDependencies": {
     "@eslint/js": "^9.30.1",
